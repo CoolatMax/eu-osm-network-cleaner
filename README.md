@@ -56,9 +56,11 @@ Designed as an entry-level portfolio demonstration following official QGIS Train
 ├── README.md
 ├── docs/
 │   └── workflow_guide.md
+│   └── Screenshots
+│       └── random.png
 ├── data/
 │   ├── raw/                  # Excluded from version control via .gitignore
 │   └── processed/
-│       └── brussels_infrastructure.gpkg
+│       └── example.gpkg
 └── qgis/
-    └── brussels_road_network_clean.qgz
+    └── example.qgz
